@@ -1,0 +1,10 @@
+.visionLink {
+  background-color: white;
+  border: none;
+  border-radius: 25px;
+  font-size: inherit;
+  cursor: pointer;
+  transition: 0.3s;
+  padding: 0;
+  text-decoration: underline;
+}

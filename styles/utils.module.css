@@ -1,0 +1,13 @@
+.centered {
+  margin: 5rem;
+  text-align: center;
+}
+
+.bigger {
+  font-size: larger;
+  margin: 0;
+}
+
+.description {
+  margin: 0
+}
