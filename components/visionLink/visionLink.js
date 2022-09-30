@@ -7,7 +7,7 @@ export default function VisionLink({ fileName }) {
 
   return (
     <button className={styles.visionLink} onClick={openPdf}>
-      vision
+      Vision
     </button>
   );
 }

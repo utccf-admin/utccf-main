@@ -4,9 +4,12 @@
   text-decoration: none;
   width: fit-content;
   padding: 0.1rem 0.35rem 0.1rem 0.35rem;
-  margin-top: 0.25rem;
+  margin: 0.25rem 0.25rem 0 0;
   border-radius: 10px;
   border: 1px solid #dddddd;
-  color: black
+  color: black;
 }
 
+.littleText {
+  font-size: small;
+}

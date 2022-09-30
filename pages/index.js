@@ -19,11 +19,11 @@ export default function Home() {
         </p>
         <p className={styles.description}>
           welcome to the <span className="funny">official</span> utccf website
-          for the 2022-2023 school year.
+          for the {info.year} school year.
         </p>
         <p className={styles.description}>
           read our official <VisionLink fileName={info.visionFile} />,
-          titled <span className="funny">abIDe</span>. .
+          titled <span className="funny">{info.visionName}</span>. .
         </p>
         <LargeGroup meetingInfo={info.largeGroupMeetingInfo} />
       </div>

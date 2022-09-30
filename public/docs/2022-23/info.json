@@ -1,5 +1,7 @@
 {
-  "year": "2022-23",
+  "year": "2022-2023",
+  "visionName": "abIDe",
+  "visionFile": "Vision.pdf",
   "largeGroupMeetingInfo": {
     "dayOfWeek": "Friday",
     "time": "6:00pm - 9:00pm",
@@ -13,7 +15,12 @@
         {
           "position": "Chair",
           "name": "Chloe Cheng",
-          "contact": []
+          "contact": [
+            {
+              "type": "Email",
+              "link": "mailto:utccfcommittee@gmail.com"
+            }
+          ]
         },
         {
           "position": "Vice-Chair",
@@ -24,32 +31,37 @@
         {
           "position": "Secretary",
           "name": "",
+          "vision": "",
           "contact": []
         },
         {
           "position": "Treasurer",
           "name": "",
+          "vision": "",
           "contact": []
         },
         {
           "position": "Women's Devotional Leader",
           "name": "",
+          "vision": "",
           "contact": []
         },
         {
           "position": "Men's Devotional Leader",
           "name": "",
+          "vision": "",
           "contact": []
         },
         {
           "position": "Outreach Coordinator",
           "name": "Katryn Mei",
-          "vision": "Outreach.pdf",
+          "vision": "",
           "contact": []
         },
         {
           "position": "Social Coordinator",
           "name": "",
+          "vision": "",
           "contact": []
         }
       ]
@@ -212,6 +224,10 @@
             {
               "type": "Instagram",
               "link": "https://instagram.com/deborahlin_"
+            },
+            {
+              "type": "Phone",
+              "link": "647-763-9579"
             }
           ]
         }
