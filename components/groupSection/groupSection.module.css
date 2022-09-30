@@ -20,5 +20,9 @@
 .smallNote {
   font-size: smaller;
   color: rgb(148, 148, 148);
-  margin: 0 0 1rem 0;
+  margin: 0;
+}
+
+.meetingBlock {
+  margin-top: 1rem;
 }

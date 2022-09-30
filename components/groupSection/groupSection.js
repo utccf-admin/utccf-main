@@ -15,7 +15,7 @@ export default function GroupSection({ group }) {
       }`;
 
       return (
-        <>
+        <div className={styles.meetingBlock}>
           <p className={styles.meetingInfo}>
             <span className="funny">where at? </span>
             {where}
@@ -27,7 +27,7 @@ export default function GroupSection({ group }) {
           <p className={styles.meetingInfo}>
             <span className="funny">who lead? </span>
           </p>
-        </>
+        </div>
       );
     } else {
       return <></>;
