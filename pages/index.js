@@ -12,7 +12,6 @@ export default function Home() {
       <Head>
         <title>utccf</title>
       </Head>
-      <body>
         <div className={styles.centered}>
           <h1>utccf</h1>
           <p className={styles.bigger}>
@@ -32,7 +31,6 @@ export default function Home() {
         {info.data.map((ministry) => (
           <GroupSection key={ministry.name} group={ministry} />
         ))}
-      </body>
       <Footer />
     </>
   );
