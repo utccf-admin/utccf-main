@@ -5,4 +5,10 @@
 
 .sectionTitle {
   font-size: x-large;
+  margin-bottom: 0;
+}
+
+.sectionDescription {
+  color: #6c778c;
+  margin-top: 1rem;
 }

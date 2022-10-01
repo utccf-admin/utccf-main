@@ -2,10 +2,11 @@
   font-weight: 600;
   font-size: larger;
   margin: 0;
-  padding: 0 0.5rem;
-  background-color: #fff9ee;
-  border-radius: 25px;
-  border: 1px solid #e4cba3;
+  padding: 0 0.5rem 0 0;
+  /* background-color: #fff9ee; */
+  /* border-radius: 25px; */
+  /* border: 1px solid #e4cba3; */
+  color: #062968;
 }
 
 .inlineBlockBordered {
@@ -17,4 +18,5 @@
   padding: 0.5rem;
   border-radius: 10px;
   background-color: white;
+  color: #6c778c;
 }

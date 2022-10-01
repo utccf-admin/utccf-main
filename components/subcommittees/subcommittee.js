@@ -1,6 +1,5 @@
 import CardSkeleton from "../cardSkeleton/cardSkeleton";
 import PeopleList from "../peopleList/peopleList";
-import styles from "./subcommittee.module.css";
 
 export default function Subcommittee({ sc }) {
   return (

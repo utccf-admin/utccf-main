@@ -1,6 +1,6 @@
 {
   "name": "Subcommittees",
-  "description": "As necessary, the UTCCF executive committee may appoint sub-committees to handle various tasks such as worship sets, retreat planning, elections, and more.",
+  "description": "As necessary, the UTCCF executive committee may appoint subcommittees to handle various tasks such as worship sets, retreat planning, elections, and more.",
   "subcommittees": [
     {
       "name": "Worship Team",
@@ -79,6 +79,10 @@
             {
               "type": "Facebook",
               "link": "https://facebook.com/marianmwang"
+            },
+            {
+              "type": "Instagram",
+              "link": "https://instagram.com/marian.wang01"
             }
           ]
         },
