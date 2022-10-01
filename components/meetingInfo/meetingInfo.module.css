@@ -1,0 +1,12 @@
+.meetingInfo {
+  margin: 0.25rem;
+  padding: 0;
+  font-size: smaller;
+}
+
+.meetingDiv {
+  border: 1px solid #dddddd;
+  border-radius: 10px;
+  width: fit-content;
+  margin: 0.25rem 0;
+}

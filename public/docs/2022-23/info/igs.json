@@ -1,0 +1,90 @@
+{
+  "name": "Investment Groups",
+  "description": "Investment groups (IGs) are our small groups which meet weekly after large group for Bible study and other activities.",
+  "igs": [
+    {
+      "number": "1",
+      "visionFile": "IG1.pdf",
+      "leaders": [
+        {
+          "name": "Vera Zhang",
+          "contact": []
+        },
+        {
+          "name": "Chris Ouyang",
+          "contact": []
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "visionFile": "IG2.pdf",
+      "leaders": [
+        {
+          "name": "Sunny Wang",
+          "contact": []
+        },
+        {
+          "name": "Daniel Chua",
+          "contact": []
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "visionFile": "IG3.pdf",
+      "leaders": [
+        {
+          "name": "Carmel Tung",
+          "contact": []
+        },
+        {
+          "name": "Joey Ng",
+          "contact": []
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "visionFile": "IG4.pdf",
+      "leaders": [
+        {
+          "name": "John Zhang",
+          "contact": []
+        },
+        {
+          "name": "Annie Wang",
+          "contact": []
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "visionFile": "IG5.pdf",
+      "leaders": [
+        {
+          "name": "Emily Fan",
+          "contact": []
+        },
+        {
+          "name": "Mathea Ng",
+          "contact": []
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "visionFile": "IG6.pdf",
+      "leaders": [
+        {
+          "name": "Liz So",
+          "contact": []
+        },
+        {
+          "name": "Kelvin Lo",
+          "contact": []
+        }
+      ]
+    }
+  ]
+}

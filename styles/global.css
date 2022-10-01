@@ -25,20 +25,10 @@ h1 {
   margin: 0rem 0.5rem 0 0.5rem;
 }
 
-.funny {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
-  background: linear-gradient(
-    to right,
-    #ef5350,
-    #f48fb1,
-    #7e57c2,
-    #2196f3,
-    #26c6da,
-    #43a047,
-    #f9a825,
-    #ff5722
-  );
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+.container {
+  margin: 0.5rem;
+}
+
+.fw600 {
+  font-weight: 600;
 }

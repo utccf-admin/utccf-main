@@ -6,7 +6,7 @@ export default function NoContactInfo() {
   return (
     <div className={styles.noContactInfoContainer}>
       <FontAwesomeIcon icon={faSadCry} />{" "}
-      <span className={styles.noContactInfoText}>no contact info found!</span>
+      <span className={styles.noContactInfoText}>no contact info!</span>
     </div>
   );
 }

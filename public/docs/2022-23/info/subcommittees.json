@@ -1,0 +1,92 @@
+{
+  "name": "Subcommittees",
+  "description": "As necessary, the UTCCF executive committee may appoint sub-committees to handle various tasks such as worship sets, retreat planning, elections, and more.",
+  "subcommittees": [
+    {
+      "name": "Worship Team",
+      "leaders": [
+        {
+          "name": "Cicy Tan",
+          "contact": []
+        },
+        {
+          "name": "Christopher Fan",
+          "contact": []
+        }
+      ],
+      "members": [
+        {
+          "name": "John Zhang",
+          "contact": []
+        },
+        {
+          "name": "Josh Chang",
+          "contact": []
+        },
+        {
+          "name": "Emily Fan",
+          "contact": []
+        },
+        {
+          "name": "Charissa Lee",
+          "contact": []
+        },
+        {
+          "name": "Chris Ouyang",
+          "contact": []
+        },
+        {
+          "name": "Dora Shi",
+          "contact": []
+        },
+        {
+          "name": "Hong Chen",
+          "contact": []
+        },
+        {
+          "name": "Ian Chan",
+          "contact": []
+        },
+        {
+          "name": "Liz So",
+          "contact": []
+        },
+        {
+          "name": "Neo Lou",
+          "contact": []
+        },
+        {
+          "name": "Mathea Ng",
+          "contact": []
+        }
+      ]
+    },
+    {
+      "name": "Graphics Team",
+      "leaders": [],
+      "members": [
+        {
+          "name": "Annie Wang",
+          "contact": []
+        },
+        {
+          "name": "Cicy Tan",
+          "contact": []
+        },
+        {
+          "name": "Marian Wang",
+          "contact": [
+            {
+              "type": "Facebook",
+              "link": "https://facebook.com/marianmwang"
+            }
+          ]
+        },
+        {
+          "name": "Samantha Wu",
+          "contact": []
+        }
+      ]
+    }
+  ]
+}

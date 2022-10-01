@@ -1,0 +1,30 @@
+.inlineBlock {
+  min-width: 15rem;
+  max-width: 20rem;
+  display: inline-block;
+  margin: 0.5rem 1rem 0.5rem 0;
+  border: 1px solid #dddddd;
+  padding: 0.5rem;
+  border-radius: 10px;
+}
+
+.igName {
+  font-weight: 600;
+  font-size: larger;
+  margin: 0;
+}
+
+.igs {
+  border-top: 1px solid #dddddd;
+  margin: 1.25rem;
+}
+
+.leaders {
+  margin: 0;
+  font-size: smaller; 
+}
+
+.visionButton {
+  margin: 0;
+  display: inline;
+}

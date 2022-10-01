@@ -1,0 +1,113 @@
+{
+  "name": "Ministries",
+  "description": "Ministries are separate gatherings from large group for members to deepen their relationship with God and meet fellow believers in a more focused setting. To learn more about the ministries, read their visions below or contact the leaders.",
+  "ministries": [
+    {
+      "name": "Freezer",
+      "visionFile": "Freezer.pdf",
+      "meetingInfo": {
+        "dayOfWeek": "Monday",
+        "time": "7:00pm - 9:00pm",
+        "location": "763 Bay St"
+      },
+      "leaders": [
+        {
+          "name": "Riley Li",
+          "contact": [
+            {
+              "type": "Instagram",
+              "link": "https://instagram.com/plum_rilay"
+            }
+          ]
+        },
+        {
+          "name": "Chloe Ha",
+          "contact": [
+            {
+              "type": "Instagram",
+              "link": "https://instagram.com/chlxeha"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Women's Ministry",
+      "visionFile": "Womens.pdf",
+      "meetingInfo": {
+        "dayOfWeek": "Wednesday",
+        "time": "6:30pm - 8:30pm",
+        "location": "155 Beverley St"
+      },
+      "leaders": [
+        {
+          "name": "Jen Zhang",
+          "contact": [
+            {
+              "type": "Instagram",
+              "link": "https://instagram.com/jen.zhang7"
+            }
+          ]
+        },
+        {
+          "name": "Angelica Lee",
+          "contact": [
+            {
+              "type": "Instagram",
+              "link": "https://instagram.com/elainecagel"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Men's Ministry",
+      "visionFile": "Mens.pdf",
+      "meetingInfo": {
+        "dayOfWeek": "Wednesday",
+        "time": "6:30pm - 8:30pm",
+        "location": "38 Grenville St"
+      },
+      "leaders": [
+        {
+          "name": "Jordan Wong",
+          "contact": [
+            {
+              "type": "Instagram",
+              "link": "https://instagram.com/jordanwong116"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outreach Ministry",
+      "visionFile": "Outreach.pdf",
+      "meetingInfo": {
+        "dayOfWeek": "Wednesday",
+        "time": "6:30pm - 8:30pm",
+        "location": "155 Beverley St"
+      },
+      "leaders": [
+        {
+          "name": "Katryn Mei",
+          "contact": [
+            {
+              "type": "Instagram",
+              "link": "https://instagram.com/katrynmei"
+            }
+          ]
+        },
+        {
+          "name": "Deborah Lin",
+          "contact": [
+            {
+              "type": "Instagram",
+              "link": "https://instagram.com/deborahlin_"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

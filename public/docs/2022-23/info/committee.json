@@ -1,0 +1,59 @@
+{
+  "name": "Committee",
+  "description": "The UTCCF executive committee is a group of CCF members who have volunteered their time and effort to serve the fellowship. They work closely with the small group and ministry leaders to coordinate and provide direction for UTCCF. The committee is elected annually in April after a thorough self-reflection and visionFileing process, set out in detail in our constitution. Although the committee is responsible for coordinating the fellowship, the whole CCF community is involved in running UTCCF.",
+  "leaders": [
+    {
+      "position": "Chair",
+      "name": "Chloe Cheng",
+      "visionFile": "",
+      "contact": [
+        {
+          "type": "Email",
+          "link": "mailto:utccfcommittee@gmail.com"
+        }
+      ]
+    },
+    {
+      "position": "Vice-Chair",
+      "name": "Clayton Chan",
+      "visionFile": "ViceChair.pdf",
+      "contact": []
+    },
+    {
+      "position": "Secretary",
+      "name": "",
+      "visionFile": "",
+      "contact": []
+    },
+    {
+      "position": "Treasurer",
+      "name": "",
+      "visionFile": "",
+      "contact": []
+    },
+    {
+      "position": "Women's Devotional Leader",
+      "name": "",
+      "visionFile": "",
+      "contact": []
+    },
+    {
+      "position": "Men's Devotional Leader",
+      "name": "",
+      "visionFile": "",
+      "contact": []
+    },
+    {
+      "position": "Outreach Coordinator",
+      "name": "Katryn Mei",
+      "visionFile": "",
+      "contact": []
+    },
+    {
+      "position": "Social Coordinator",
+      "name": "",
+      "visionFile": "",
+      "contact": []
+    }
+  ]
+}
