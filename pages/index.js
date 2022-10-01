@@ -12,27 +12,34 @@ import ministries from "../public/docs/2022-23/info/ministries.json";
 import igs from "../public/docs/2022-23/info/igs.json";
 import subcommittees from "../public/docs/2022-23/info/subcommittees.json";
 import committee from "../public/docs/2022-23/info/committee.json";
+import Image from "next/image";
 
 export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>UTCCF</title>
+        <title>
+          UTCCF - University of Toronto Chinese Christian Fellowship
+        </title>
       </Head>
       <div className={styles.centered}>
-        <h1>UTCCF</h1>
-        <p className={styles.bigger}>
+        <Image width={150} height={150} src="/images/logolight.png" />
+        <h1>
+          <span className={styles.siteTitle}>UTCCF</span>
+        </h1>
+        <p className={styles.siteSubtitle}>
           University of Toronto Chinese Christian Fellowship
         </p>
+        <div className={styles.animatedLine} />
         <p className={styles.description}>
           This is the official website for UTCCF, a student-led campus
           fellowship dedicated to strengthening our relationship with God and
           one another in order to make His name known across the broader U of T
           community. You can find a detailed outline of our purpose and
           statement of faith by reading our{" "}
-          <PdfLink fileName={"UTCCF-Constitution.pdf"}> constitution</PdfLink>.
-        </p>
-        <p className={styles.description}>
+          <PdfLink fileName={"UTCCF-Constitution.pdf"}> constitution</PdfLink>
+          .
+          <br />
           To learn more about what we are focusing on this year, read our
           official <PdfLink fileName={largeGroup.visionFile}>vision</PdfLink>,
           titled {largeGroup.visionName}.

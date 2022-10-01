@@ -1,14 +1,12 @@
-import styles from "./subcommittee.module.css";
 import Subcommittee from "./subcommittee";
+import Section from "../section/section";
 
 export default function Subcommittees({ scs }) {
   return (
-    <div className={styles.subcommittees}>
-      <h3>{scs.name}</h3>
-      <p>{scs.description}</p>
+    <Section title={scs.name} description={scs.description}>
       {scs.subcommittees.map((sc) => (
         <Subcommittee key={sc.name} sc={sc} />
       ))}
-    </div>
+    </Section>
   );
 }

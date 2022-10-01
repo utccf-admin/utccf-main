@@ -1,36 +1,66 @@
-# the main utccf website
-go to [utccf.com](https://www.utccf.com) to view the current website.
+# The Main UTCCF Website
 
-## edit information
-to edit information, you can clone the repository and push changes OR edit directly from your browser.
-> you will need to be added as a collaborator first, so please send your git email and username to a committee member.
+Go to [utccf.com](https://www.utccf.com) to view the current website.
 
-all of the information displayed on the website can be found in `public/docs/yyyy-yy`.
+## Edit information
 
-within this directory, edit `info.json` to change information relating to:
-- leadership contact info (name, position, contact)
-- ministries (name, description, meeting information)
-- large group (meeting information)
-- year
-- vision file names
+> To edit anything on the website, you will need to be added as a collaborator first. Please send your git email, username, and a short explanation to why you need to edit to utccfcommittee@gmail.com.
 
-please note that visions are tied to a **leader** (with the exception of the main vision).
-> even though an IG/ministry may have just one vision but two leaders, you should add the vision link under both their names
+To edit information, you can clone the repository and push changes OR edit directly from your browser.
 
-### upload a new vision
-1. export it to `.pdf` and put it in the `public/docs/yyyy-yy` directory.
-2. find the leader(s) in `info.json` and add/edit the `"vision"` attribute to be the **exact** name of the pdf (see other people for examples).
+All of the information displayed on the website can be found in `public/docs/yyyy-yy`.
 
-### update contact information
-currently, the website supports Instagram, Facebook, and Email contact options.
-1. find the leader whose contact info you want to update
-2. inside the `"contact"` field, paste a new object of this form:
+### Change Information
+---
+
+Within the `/info` directory, edit `xxxxx.json` to change information relating to:
+
+- Advisors
+- Committee
+- Igs
+- Ministries
+- Subcommittees
+
+### Update Contact Information
+---
+
+Currently, the website supports Instagram, Facebook, and Email contact options.
+
+1. Find the leader whose contact info you want to update
+2. Inside the `contact` field, paste a new object of this form:
+
 ```
 {
   "type" : "Facebook" (replace with "Instagram" or "Email" depending on what you're adding)
-  "link" : "https://facebook.com/example" (for email, it needs to be "mailto:example@example.com" so it can redirect them)
+  "link" : "https://facebook.com/example" (for email, it needs to be "mailto:example@example.com" so it can redirect them -- see next sectino for an example)
+}
+```
+### Upload Visions
+---
+
+1. Export it to `.pdf`
+2. Put it in the `/visions` directory
+3. Find the ministry/leader in the `/info` and add/edit the `visionFile` attribute to be the **exact** name of the pdf
+
+For example,
+
+1. You upload a new vision called "SocialCoordinator.pdf"
+2. Navigate to the `/info/committee.json` file
+3. Under the `leaders` attribute for the leader you are looking for, you change their `visionFile`
+
+```
+{
+  "position": "Social Coordinator",
+  "name": "Super Cool Person",
+  "visionFile": "SocialCoordinator.pdf",
+  "contact": [{
+    "type": "Email",
+    "link": "mailto:MySuperCoolEmail@gmail.com"
+  }]
 }
 ```
 
-## questions and feature requests
-please direct all communication regarding the website to the current utccf committee. happy coding!
+## Questions, Feature Requests, Bugs, and Future Communication
+---
+
+Please direct all communication regarding the website to [the current utccf committee](mailto:utccfcommittee@gmail.com). Happy coding!

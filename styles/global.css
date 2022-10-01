@@ -6,6 +6,7 @@ body {
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   line-height: 1.6;
   font-size: 18px;
+  background-color: #fff7e8;
 }
 
 * {
@@ -31,4 +32,12 @@ h1 {
 
 .fw600 {
   font-weight: 600;
+}
+
+.top-border {
+  border-top: 1px solid #E4CBA3;
+  padding-top: 0.5rem;
+  margin-top: 0.25rem;
+  margin-right: 0;
+  margin-left: 0;
 }

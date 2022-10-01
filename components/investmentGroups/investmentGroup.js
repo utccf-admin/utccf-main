@@ -1,18 +1,12 @@
-import PersonCard from "../personCard/personCard";
-import styles from "./investmentGroup.module.css";
-import PdfLink from "../pdfLink/pdfLink";
+import PeopleList from "../peopleList/peopleList";
+import CardSkeleton from "../cardSkeleton/cardSkeleton";
 
 export default function InvestmentGroup({ ig }) {
+  const formattedName = `IG${ig.number}`;
+
   return (
-    <div className={styles.inlineBlock}>
-      <span className={styles.igName}>{`IG${ig.number}`} / </span>
-      <p className={styles.visionButton}>
-        <PdfLink fileName={ig.visionFile}>Vision</PdfLink>
-      </p>
-      <p className={styles.leaders}>Leaders: </p>
-      {ig.leaders.map((leader) => (
-        <PersonCard key={leader.name} person={leader} />
-      ))}
-    </div>
+    <CardSkeleton name={formattedName} visionFile={ig.visionFile}>
+      <PeopleList people={ig.leaders} title="Leaders" />
+    </CardSkeleton>
   );
 }

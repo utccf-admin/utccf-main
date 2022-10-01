@@ -1,14 +1,12 @@
-import styles from "./investmentGroup.module.css";
 import InvestmentGroup from "./investmentGroup";
+import Section from "../section/section";
 
 export default function InvestmentGroups({ igs }) {
   return (
-    <div className={styles.igs}>
-      <h3>{igs.name}</h3>
-      <p>{igs.description}</p>
+    <Section title={igs.name} description={igs.description}>
       {igs.igs.map((ig) => (
         <InvestmentGroup key={ig.number} ig={ig} />
       ))}
-    </div>
+    </Section>
   );
 }
