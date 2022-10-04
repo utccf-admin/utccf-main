@@ -1,11 +1,12 @@
 .section {
-  border-top: 1px solid #062968;
-  margin: 1.25rem;
+  border-bottom: 1px solid #062968;
+  margin: 1.25rem 1.25rem 0 1.25rem;
+  padding-bottom: 1rem; 
 }
 
 .sectionTitle {
   font-size: x-large;
-  margin-bottom: 0;
+  margin-top: 0;
 }
 
 .sectionDescription {

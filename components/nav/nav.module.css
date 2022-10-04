@@ -1,0 +1,19 @@
+.navLink,
+.navLink:visited {
+  color: #2b75d6;
+  margin: 0.5rem 0.25rem;
+}
+
+.navBar {
+  position: sticky;
+  top: 0px;
+  background-color: #ffffff;
+  padding: 1rem 0.5rem;
+  margin: 1rem 0 0 0;
+  border-top: 1px solid #062968;
+  border-bottom: 1px solid #062968;
+  font-size: smaller;
+  text-align: center;
+  overflow: auto;
+  white-space: nowrap;
+}

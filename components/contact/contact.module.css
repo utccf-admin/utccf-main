@@ -1,0 +1,14 @@
+.centered {
+  text-align: center;
+  border-bottom: 1px solid #062968;
+  padding: 1.25rem 1.25rem 1rem 1.25rem;
+}
+
+.contactTitle {
+  margin: 0;
+  font-size: x-large;
+}
+
+.description {
+  color: #6c778c;
+}

@@ -1,5 +1,6 @@
 .centered {
   text-align: center;
+  margin: 0.5rem;
 }
 
 .siteSubtitle {
@@ -36,4 +37,8 @@
     width: 60%;
     opacity: 100%;
   }
+}
+
+#large-group {
+  margin-top: 0;
 }

@@ -1,7 +1,11 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEnvelope } from "@fortawesome/free-regular-svg-icons";
 import { faPhone } from "@fortawesome/free-solid-svg-icons";
-import { faFacebook, faInstagram } from "@fortawesome/free-brands-svg-icons";
+import {
+  faDiscord,
+  faFacebook,
+  faInstagram,
+} from "@fortawesome/free-brands-svg-icons";
 import styles from "./contactButton.module.css";
 
 export default function ContactButton({ type, link }) {
@@ -21,6 +25,8 @@ export default function ContactButton({ type, link }) {
       return <FontAwesomeIcon icon={faFacebook} />;
     } else if (type === "Email") {
       return <FontAwesomeIcon icon={faEnvelope} />;
+    } else if (type === "Discord") {
+      return <FontAwesomeIcon icon={faDiscord} />;
     }
   }
 
