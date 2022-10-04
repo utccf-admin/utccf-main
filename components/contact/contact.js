@@ -10,7 +10,7 @@ export default function Contact({ contacts }) {
         on this page or contact us through our social media below.
       </p>
       {contacts.map((c) => (
-        <ContactButton type={c.type} link={c.link} />
+        <ContactButton key={c.link} type={c.type} link={c.link} />
       ))}
     </section>
   );
