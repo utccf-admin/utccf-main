@@ -1,0 +1,89 @@
+{
+  "name": "Committee",
+  "description": "The UTCCF executive committee is a group of CCF members who have volunteered their time and effort to serve the fellowship. They work closely with the small group and ministry leaders to coordinate and provide direction for UTCCF. The committee is elected annually in April after a thorough self-reflection and visioning process, set out in detail in our constitution. Although the committee is responsible for coordinating the fellowship, the whole CCF community is involved in running UTCCF.",
+  "leaders": [
+    {
+      "position": "Chair",
+      "name": "Jennifer Zhang",
+      "visionFile": "Chair.pdf",
+      "contact": [
+        {
+          "type": "Email",
+          "link": "mailto:jennlike777@gmail.com"
+        }
+      ]
+    },
+    {
+      "position": "Vice-Chair",
+      "name": "Carmel Tung",
+      "visionFile": "ViceChair.pdf",
+      "contact": [
+        {
+          "type": "Email",
+          "link": "mailto:cdzltung@gmail.com"
+        }
+      ]
+    },
+    {
+      "position": "Secretary/Treasurer",
+      "name": "Marcus Yip",
+      "visionFile": "SecretaryTreasurer.pdf",
+      "contact": [
+        {
+          "type": "Email",
+          "link": "mailto:marcusjyyip@gmail.com"
+        }
+      ]
+    },
+    {
+      "position": "Worship Coordinator",
+      "name": "Christopher Fan",
+      "visionFile": "WorshipCoordinator.pdf",
+      "contact": [
+        {
+          "type": "Email",
+          "link": "mailto:christopher.fankingwah@outlook.com"
+        }
+      ]
+    },
+    {
+      "position": "Women's Devotional Leader",
+      "name": "",
+      "visionFile": "",
+      "contact": []
+    },
+    {
+      "position": "Men's Devotional Leader",
+      "name": "Daniel Chua",
+      "visionFile": "MensDL.pdf",
+      "contact": [
+        {
+          "type": "Email",
+          "link": "mailto:daniel2003chua@gmail.com"
+        }
+      ]
+    },
+    {
+      "position": "Outreach Coordinator",
+      "name": "Cecilia Chan",
+      "visionFile": "OutreachCoordinator.pdf",
+      "contact": [
+        {
+          "type": "Email",
+          "link": "mailto:ccchan2002@gmail.com"
+        }
+      ]
+    },
+    {
+      "position": "Social Coordinator",
+      "name": "Samantha Wu",
+      "visionFile": "SocialCoordinator.pdf",
+      "contact": [
+        {
+          "type": "Email",
+          "link": "mailto:swu0302@gmail.com"
+        }
+      ]
+    }
+  ]
+}

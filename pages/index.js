@@ -7,12 +7,12 @@ import Committee from "../components/committee/committee";
 import PdfLink from "../components/pdfLink/pdfLink";
 import styles from "../styles/utils.module.css";
 import Footer from "../components/footer/footer";
-import largeGroup from "../public/docs/2022-23/info/largeGroup.json";
-import ministries from "../public/docs/2022-23/info/ministries.json";
-import igs from "../public/docs/2022-23/info/igs.json";
-import subcommittees from "../public/docs/2022-23/info/subcommittees.json";
-import committee from "../public/docs/2022-23/info/committee.json";
-import contacts from "../public/docs/2022-23/info/contacts.json";
+import largeGroup from "../public/docs/2023-24/info/largeGroup.json";
+import ministries from "../public/docs/2023-24/info/ministries.json";
+import igs from "../public/docs/2023-24/info/igs.json";
+import subcommittees from "../public/docs/2023-24/info/subcommittees.json";
+import committee from "../public/docs/2023-24/info/committee.json";
+import contacts from "../public/docs/2023-24/info/contacts.json";
 import Image from "next/image";
 import Nav from "../components/nav/nav";
 import Contact from "../components/contact/contact";
@@ -44,9 +44,6 @@ export default function Home() {
           statement of faith by reading our{" "}
           <PdfLink fileName={"UTCCF-Constitution.pdf"}> constitution</PdfLink>.
           <br />
-          To learn more about what we are focusing on this year, read our
-          official <PdfLink fileName={largeGroup.visionFile}>vision</PdfLink>,
-          titled {largeGroup.visionName}.
         </p>
       </section>
       <Nav />

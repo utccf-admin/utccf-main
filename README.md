@@ -32,7 +32,7 @@ Currently, the website supports Instagram, Facebook, and Email contact options.
 ```
 {
   "type" : "Facebook" (replace with "Instagram" or "Email" depending on what you're adding)
-  "link" : "https://facebook.com/example" (for email, it needs to be "mailto:example@example.com" so it can redirect them -- see next sectino for an example)
+  "link" : "https://facebook.com/example" (for email, it needs to be "mailto:example@example.com" so it can redirect them -- see next section for an example)
 }
 ```
 ### Upload Visions
