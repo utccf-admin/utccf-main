@@ -10,6 +10,10 @@
         {
           "type": "Email",
           "link": "mailto:jennlike777@gmail.com"
+        },
+        {
+          "type": "Facebook",
+          "link": "https://www.facebook.com/jen.zhang.161"
         }
       ]
     },
@@ -21,6 +25,10 @@
         {
           "type": "Email",
           "link": "mailto:cdzltung@gmail.com"
+        },
+        {
+          "type": "Facebook",
+          "link": "https://www.facebook.com/profile.php?id=100018265651864"
         }
       ]
     },
@@ -32,6 +40,10 @@
         {
           "type": "Email",
           "link": "mailto:marcusjyyip@gmail.com"
+        },
+        {
+          "type": "Facebook",
+          "link": "https://www.facebook.com/marcus.yip.50"
         }
       ]
     },
@@ -43,6 +55,10 @@
         {
           "type": "Email",
           "link": "mailto:christopher.fankingwah@outlook.com"
+        },
+        {
+          "type": "Facebook",
+          "link": "https://www.facebook.com/christopher.fann.3"
         }
       ]
     },
@@ -60,6 +76,10 @@
         {
           "type": "Email",
           "link": "mailto:daniel2003chua@gmail.com"
+        },
+        {
+          "type": "Facebook",
+          "link": "https://www.facebook.com/daniel.chua.14606/"
         }
       ]
     },
@@ -71,6 +91,10 @@
         {
           "type": "Email",
           "link": "mailto:ccchan2002@gmail.com"
+        },
+        {
+          "type": "Facebook",
+          "link": "https://www.facebook.com/cecilians.chan"
         }
       ]
     },
@@ -82,6 +106,10 @@
         {
           "type": "Email",
           "link": "mailto:swu0302@gmail.com"
+        },
+        {
+          "type": "Facebook",
+          "link": "https://www.facebook.com/samantha.2218"
         }
       ]
     }
