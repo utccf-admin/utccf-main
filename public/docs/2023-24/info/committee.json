@@ -59,6 +59,10 @@
         {
           "type": "Facebook",
           "link": "https://www.facebook.com/christopher.fann.3"
+        },
+        {
+          "type": "Instagram",
+          "link": "https://instagram.com/chris.fan31"
         }
       ]
     },
@@ -80,6 +84,10 @@
         {
           "type": "Facebook",
           "link": "https://www.facebook.com/daniel.chua.14606/"
+        },
+        {
+          "type": "Instagram",
+          "link": "https://instagram.com/daniel2003chua"
         }
       ]
     },
@@ -89,12 +97,12 @@
       "visionFile": "OutreachCoordinator.pdf",
       "contact": [
         {
-          "type": "Email",
-          "link": "mailto:ccchan2002@gmail.com"
-        },
-        {
           "type": "Facebook",
           "link": "https://www.facebook.com/cecilians.chan"
+        },
+        {
+          "type": "Instagram",
+          "link": "https://www.instagram.com/ccliaasee/"
         }
       ]
     },
@@ -110,6 +118,10 @@
         {
           "type": "Facebook",
           "link": "https://www.facebook.com/samantha.2218"
+        },
+        {
+          "type": "Instagram",
+          "link": "https://www.instagram.com/s.wu_wsh"
         }
       ]
     }
