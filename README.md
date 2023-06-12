@@ -4,9 +4,9 @@ Go to [utccf.com](https://www.utccf.com) to view the current website.
 
 ## Edit information
 
-> To edit anything on the website, you will need to be added as a collaborator first. Please send your git email, username, and a short explanation to why you need to edit to utccfcommittee@gmail.com.
+> To edit anything on the website, you will need to be added as a collaborator first. Please send your git email, username, and a short explanation to why you need to edit to utccfcommittee@gmail.com. Alternatively, login to GitHub using that email account if you have access.
 
-To edit information, you can clone the repository and push changes OR edit directly from your browser.
+To edit information, you can [clone the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) and push changes OR [edit directly from your browser](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files).
 
 All of the information displayed on the website can be found in `public/docs/yyyy-yy`.
 
@@ -59,6 +59,20 @@ For example,
   }]
 }
 ```
+### Previewing Changes
+---
+
+1. In your terminal, run `npm run build && npm start`.
+2. Click on the link, e.g. `http://localhost:3000` to view your changes.
+
+### Updating Website
+---
+
+*Note: You do not have to do this if you edit in the browser.*  
+1. Navigate to `utccf-main` in your terminal and stage your changes with `git add .` or `git add [specific file]` (replace `[specific file]` with the file you want to change).
+2. Commit your changes with a commit message explaining the changes, e.g. `git commit -m 'Updated comm info for 2023-24'`.
+3. Push your changes using `git push`
+4. View your changes on utccf.com
 
 ## Questions, Feature Requests, Bugs, and Future Communication
 ---
