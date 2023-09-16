@@ -1,5 +1,118 @@
 {
   "name": "Investment Groups",
   "description": "Investment groups (IGs) are our small groups which meet weekly after large group for Bible study and other activities. Please contact a committee member to join an IG.",
-  "igs": []
+  "igs": [
+    {
+      "number": "1",
+      "visionFile": "IG1.pdf",
+      "leaders": [
+        {
+          "name": "Nathan Cai",
+          "contact": []
+        },
+        {
+          "name": "Angelica Lee",
+          "contact": []
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "visionFile": "IG2.pdf",
+      "leaders": [
+        {
+          "name": "Alaina Hu",
+          "contact": []
+        },
+        {
+          "name": "Ethan Wang",
+          "contact": []
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "visionFile": "IG3.pdf",
+      "leaders": [
+        {
+          "name": "Joy Tian",
+          "contact": []
+        },
+        {
+          "name": "Chris Fan",
+          "contact": []
+        }
+      ]
+    },
+{
+      "number": "4",
+      "visionFile": "IG4.pdf",
+      "leaders": [
+        {
+          "name": "Eric Lam",
+          "contact": []
+        },
+        {
+          "name": "Monique Tong",
+          "contact": []
+        }
+      ]
+    },
+{
+      "number": "5",
+      "visionFile": "IG5.pdf",
+      "leaders": [
+        {
+          "name": "Gwen Kwong",
+          "contact": []
+        },
+        {
+          "name": "Chris Situ",
+          "contact": []
+        }
+      ]
+    },
+{
+      "number": "6",
+      "visionFile": "IG6.pdf",
+      "leaders": [
+        {
+          "name": "Elysia Lai",
+          "contact": []
+        },
+        {
+          "name": "Cole Kim",
+          "contact": []
+        }
+      ]
+    },
+{
+      "number": "7",
+      "visionFile": "IG7.pdf",
+      "leaders": [
+        {
+          "name": "Carmel Tung",
+          "contact": []
+        },
+        {
+          "name": "Jeff Chen",
+          "contact": []
+        }
+      ]
+    },
+{
+      "number": "8",
+      "visionFile": "IG8.pdf",
+      "leaders": [
+        {
+          "name": "Jen Zhang",
+          "contact": []
+        },
+        {
+          "name": "Josh Cheng",
+          "contact": []
+        }
+      ]
+    }
+  ]
 }
