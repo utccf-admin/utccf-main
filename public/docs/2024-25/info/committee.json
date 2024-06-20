@@ -1,1 +1,108 @@
-
+{
+  "name": "Committee",
+  "description": "The UTCCF executive committee is a group of CCF members who have volunteered their time and effort to serve the fellowship. They work closely with the small group and ministry leaders to coordinate and provide direction for UTCCF. The committee is elected annually in April after a thorough self-reflection and visioning process, set out in detail in our constitution. Although the committee is responsible for coordinating the fellowship, the whole CCF community is involved in running UTCCF.",
+  "leaders": [
+    {
+      "position": "Chair",
+      "name": "Riley Li",
+      "visionFile": "Chair.pdf",
+      "contact": [
+        {
+          "type": "Email",
+          "link": "mininstruments@gmail.com"
+        },
+        {
+          "type": "Facebook",
+          "link": "https://www.facebook.com/riley.li.925"
+        }
+      ]
+    },
+    {
+      "position": "Vice-Chair",
+      "name": "Cole Kim",
+      "visionFile": "ViceChair.pdf",
+      "contact": [
+        {
+          "type": "Email",
+          "link": "mailto:mrcolekim@gmail.com"
+        },
+        {
+          "type": "Facebook",
+          "link": "https://www.facebook.com/profile.php?id=100012709908929"
+        }
+      ]
+    },
+    {
+      "position": "Secretary/Treasurer",
+      "name": "Kaiti Chen",
+      "visionFile": "SecretaryTreasurer.pdf",
+      "contact": [
+        {
+          "type": "Email",
+          "link": "mailto:katechen2003@gmail.com"
+        },
+        {
+          "type": "Facebook",
+          "link": "https://www.facebook.com/kaiti.chen.92"
+        }
+      ]
+    },
+    {
+      "position": "Worship Coordinator",
+      "name": "",
+      "visionFile": "",
+      "contact": []
+    },
+    {
+      "position": "Women's Devotional Leader",
+      "name": "Dora Shi",
+      "visionFile": "",
+      "contact": [
+        {
+          "type": "Email",
+          "link": "mailto:dorashi113@gmail.com"
+        },
+        {
+          "type": "Facebook",
+          "link": "https://www.facebook.com/profile.php?id=100011375398753"
+        }
+      ]
+    },
+    {
+      "position": "Men's Devotional Leader",
+      "name": "",
+      "visionFile": "",
+      "contact": []
+    },
+    {
+      "position": "Outreach Coordinator",
+      "name": "Annie Wang",
+      "visionFile": "OutreachCoordinator.pdf",
+      "contact": [
+        {
+           "type": "Email",
+          "link": "mailto:2018annie11@gmail.com"
+        },
+        {
+          "type": "Facebook",
+          "link": "https://www.facebook.com/annie.dms.9"
+        }
+      ]
+    },
+    {
+      "position": "Social Coordinator",
+      "name": "Liz So",
+      "visionFile": "SocialCoordinator.pdf",
+      "contact": [
+        {
+          "type": "Email",
+          "link": "mailto:eso8882@gmail.com"
+        },
+        {
+          "type": "Facebook",
+          "link": "https://www.facebook.com/eso88821"
+        }       
+      ]
+    }
+  ]
+}
