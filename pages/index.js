@@ -11,7 +11,7 @@ import largeGroup from "../public/docs/2023-24/info/largeGroup.json";
 import ministries from "../public/docs/2023-24/info/ministries.json";
 import igs from "../public/docs/2023-24/info/igs.json";
 import subcommittees from "../public/docs/2023-24/info/subcommittees.json";
-import committee from "../public/docs/2023-24/info/committee.json";
+import committee from "../public/docs/2024-25/info/committee.json";
 import contacts from "../public/docs/2023-24/info/contacts.json";
 import Image from "next/image";
 import Nav from "../components/nav/nav";
