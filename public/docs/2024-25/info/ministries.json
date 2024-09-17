@@ -1,0 +1,92 @@
+{
+  "name": "Ministries",
+  "description": "Ministries are separate gatherings from large group for members to deepen their relationship with God and meet fellow believers in a more focused setting. To learn more about the ministries, read their visions below or contact the leaders.",
+  "ministries": [
+    {
+      "name": "Freezer",
+      "visionFile": "",
+      "meetingInfo": {
+        "dayOfWeek": "Monday",
+        "time": "7:00pm - 9:00pm",
+        "location": "Check Announcements!"
+      },
+      "leaders": [
+        {
+          "name": "Maddi Chu",
+          "contact": [
+          ]
+        },
+        {
+          "name": "Wesley Liu",
+          "contact": [
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Men's Ministry",
+      "visionFile": "Mens.pdf",
+      "meetingInfo": {
+        "dayOfWeek": "Wednesday",
+        "time": "7:00pm - 9:00pm",
+        "location": "Check Announcements!"
+      },
+      "leaders": [
+        {
+          "name": "Aaron Wang",
+          "contact": [
+
+          ]
+        },
+        {
+          "name": "John Zhang",
+          "contact": [
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Women's Ministry",
+      "visionFile": "Womens.pdf",
+      "meetingInfo": {
+        "dayOfWeek": "Wednesday",
+        "time": "7pm - 9pm",
+        "location": "Check Announcements!"
+      },
+      "leaders": [
+        {
+          "name": "Dora Shi",
+          "contact": [
+          ]
+        },
+        {
+          "name": "Joey Ng",
+          "contact": [
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Outreach Ministry",
+      "visionFile": "",
+      "meetingInfo": {
+        "dayOfWeek": "TBD",
+        "time": "TBD",
+        "location": "TBD"
+      },
+      "leaders": [
+        {
+          "name": "Annie Wang",
+          "contact": [
+          ]
+        },
+        {
+          "name": "Liz So",
+          "contact": [
+
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "name": "Investment Groups",
+  "description": "Investment groups (IGs) are our small groups which meet weekly after large group for Bible study and other activities. Please contact a committee member to join an IG.",
+  "igs": [
+    {
+      "number": "1",
+      "visionFile": "IG1.pdf",
+      "leaders": [
+        {
+          "name": "Ethan Au",
+          "contact": []
+        },
+        {
+          "name": "Riley Lee",
+          "contact": []
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "visionFile": "IG2.pdf",
+      "leaders": [
+        {
+          "name": "Janie Ho",
+          "contact": []
+        },
+        {
+          "name": "Jeffery Chu",
+          "contact": []
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "visionFile": "IG3.pdf",
+      "leaders": [
+        {
+          "name": "Alaina Hu",
+          "contact": []
+        },
+        {
+          "name": "Benjamin Lee",
+          "contact": []
+        }
+      ]
+    },
+{
+      "number": "4",
+      "visionFile": "IG4.pdf",
+      "leaders": [
+        {
+          "name": "Daniel Chua",
+          "contact": []
+        },
+        {
+          "name": "Kimi Chu",
+          "contact": []
+        }
+      ]
+    },
+{
+      "number": "5",
+      "visionFile": "IG5.pdf",
+      "leaders": [
+        {
+          "name": "Josh Lin",
+          "contact": []
+        },
+        {
+          "name": "Yasmine Ko",
+          "contact": []
+        }
+      ]
+    },
+{
+      "number": "6",
+      "visionFile": "IG6.pdf",
+      "leaders": [
+        {
+          "name": "Denise Ng",
+          "contact": []
+        },
+        {
+          "name": "Stacey Li",
+          "contact": []
+        }
+      ]
+    },
+{
+      "number": "7",
+      "visionFile": "IG7.pdf",
+      "leaders": [
+        {
+          "name": "Edison Lim",
+          "contact": []
+        },
+        {
+          "name": "Emily Fan",
+          "contact": []
+        }
+      ]
+    }
+  ]
+}
