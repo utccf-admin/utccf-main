@@ -35,7 +35,7 @@ export default function Home() {
                 <p className={styles.description}>
                     This is the official website for UTCCF, a student-led campus fellowship dedicated to strengthening our relationship with God and one another
                     in order to make His name known across the broader U of T community. You can find a detailed outline of our purpose and statement of faith
-                    by reading our constitution (Under Construction).
+                    by reading our <PdfLink fileName={'UTCCF-Constitution.pdf'}> constitution</PdfLink>.
                     <br />
                 </p>
             </section>
