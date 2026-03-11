@@ -13,6 +13,7 @@ All of the information displayed on the website can be found in `public/docs/yyy
 ### Change Information
 ---
 
+Each year makes their own directory. To change what directory the code looks at, edit the imports in index.js.
 Within the `/info` directory, edit `xxxxx.json` to change information relating to:
 
 - Advisors
@@ -62,8 +63,9 @@ For example,
 ### Previewing Changes
 ---
 
-1. In your terminal, run `npm run build && npm start`.
-2. Click on the link, e.g. `http://localhost:3000` to view your changes.
+1. If you haven't already, run `npm install`.
+2. In your terminal, run `npm run build && npm start`.
+3. Click on the link, e.g. `http://localhost:3000` to view your changes.
 
 ### Updating Website
 ---
