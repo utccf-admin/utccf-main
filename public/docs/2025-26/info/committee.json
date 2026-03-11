@@ -1,0 +1,84 @@
+{
+  "name": "Committee",
+  "description": "The UTCCF executive committee is a group of CCF members who have volunteered their time and effort to serve the fellowship. They work closely with the small group and ministry leaders to coordinate and provide direction for UTCCF. The committee is elected annually in April after a thorough self-reflection and visioning process, set out in detail in our constitution. Although the committee is responsible for coordinating the fellowship, the whole CCF community is involved in running UTCCF.",
+  "leaders": [
+    {
+      "position": "Chair",
+      "name": "Nathan Li",
+      "visionFile": "Chair.pdf",
+      "contact": [
+        {
+          "type": "Email",
+          "link": "mailto:therealnathan03@gmail.com"
+        }
+      ]
+    },
+    {
+      "position": "Vice-Chair",
+      "name": "Daniel Chua",
+      "visionFile": "ViceChair.pdf",
+      "contact": [
+        {
+          "type": "Email",
+          "link": "mailto:daniel2003chua@gmail.com"
+        }
+      ]
+    },
+    {
+      "position": "Secretary/Treasurer",
+      "name": "Caleb Ji",
+      "visionFile": "SecretaryTreasurer.pdf",
+      "contact": [
+        {
+          "type": "Email",
+          "link": "mailto:calebji1234@gmail.com"
+        }
+      ]
+    },
+    {
+      "position": "Worship Coordinator",
+      "name": "",
+      "visionFile": "",
+      "contact": []
+    },
+    {
+      "position": "",
+      "name": "",
+      "visionFile": "",
+      "contact": []
+    },
+    {
+      "position": "Men's Devotional Leader",
+      "name": "Aaron Wang",
+      "visionFile": "MensDL.pdf",
+      "contact": [
+        {
+          "type": "Email",
+          "link": "mailto:wangaaron2018@gmail.com"
+        }
+      ]
+    },
+    {
+      "position": "Outreach Coordinator",
+      "name": "Isabel Wei",
+      "visionFile": "OutreachCoordinator.pdf",
+      "contact": [
+        {
+           "type": "Email",
+          "link": "mailto:isabelwei04@gmail.com"
+        }
+      ]
+    },
+    {
+      "position": "Social Coordinator",
+      "name": "Amy Chang",
+      "visionFile": "SocialCoordinator.pdf",
+      "contact": [
+        {
+          "type": "Email",
+          "link": "mailto:amyc21383@gmail.com"
+        }   
+      ]
+    }
+  ]
+}

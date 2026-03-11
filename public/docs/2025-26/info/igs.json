@@ -1,0 +1,110 @@
+{
+  "name": "Investment Groups",
+  "description": "Investment groups (IGs) are our small groups which meet weekly after large group for Bible study and other activities. Please contact a committee member to join an IG.",
+  "igs": [
+    {
+      "number": "1",
+      "visionFile": "IG1.pdf",
+      "leaders": [
+        {
+          "name": "Rachel Wu",
+          "contact": []
+        },
+        {
+          "name": "Brian Wei",
+          "contact": []
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "visionFile": "IG2.pdf",
+      "leaders": [
+        {
+          "name": "Maddi Chu",
+          "contact": []
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "visionFile": "IG3.pdf",
+      "leaders": [
+        {
+          "name": "Jeffrey Chu",
+          "contact": []
+        }
+      ]
+    },
+{
+      "number": "4",
+      "visionFile": "IG4.pdf",
+      "leaders": [
+        {
+          "name": "Rolynn Zhou",
+          "contact": []
+        },
+        {
+          "name": "Eric Lam",
+          "contact": []
+        }
+      ]
+    },
+{
+      "number": "5",
+      "visionFile": "IG5.pdf",
+      "leaders": [
+        {
+          "name": "Ian Xiang",
+          "contact": []
+        },
+        {
+          "name": "Michael Feng",
+          "contact": []
+        }
+      ]
+    },
+{
+      "number": "6",
+      "visionFile": "IG6.pdf",
+      "leaders": [
+        {
+          "name": "Benjamin Zhai",
+          "contact": []
+        },
+        {
+          "name": "Ethan Wang",
+          "contact": []
+        }
+      ]
+    },
+{
+      "number": "7",
+      "visionFile": "IG7.pdf",
+      "leaders": [
+        {
+          "name": "Daniel Chua",
+          "contact": []
+        },
+        {
+          "name": "Carolyn Lee",
+          "contact": []
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "visionFile": "IG8.pdf",
+      "leaders": [
+        {
+          "name": "Nathan Li",
+          "contact": []
+        },
+        {
+          "name": "Miranda Leong",
+          "contact": []
+        }
+      ]
+    }
+  ]
+}
